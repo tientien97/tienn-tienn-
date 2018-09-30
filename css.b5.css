@@ -1,0 +1,7 @@
+.trang-tri {
+    text-align: justify;
+    text-decoration: overline;
+    text-indent: 100px;
+    text-shadow: deepskyblue 2px 4px 3px, orangered 2px 3px 5px;
+    text-transform: capitalize;
+}
